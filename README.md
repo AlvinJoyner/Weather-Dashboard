@@ -19,7 +19,8 @@ THEN I am again presented with current and future conditions for that city
 
 ## Usage
 
-I can use this dashboard to plan my day or days for a future reference, based on the weather of the city i chose
+I can use this dashboard to plan my day or days for a future reference, based on the weather of the city the  user chooses.
+http://127.0.0.1:5500/index.html
 
 ## Screenshot
 
